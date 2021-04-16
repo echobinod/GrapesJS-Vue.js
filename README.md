@@ -1,6 +1,16 @@
 # GrapesJS and Vue.js Integration with Multipages
 
-## Project setup
+## Clone Project
+```
+git clone https://github.com/echobinod/GrapesJS-Vue.js.git
+```
+
+### CD to project directory
+```
+cd GrapesJS-Vue.js
+```
+
+### Project setup
 ```
 npm install
 ```
